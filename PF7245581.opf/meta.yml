@@ -1,0 +1,20 @@
+id: PF7245581
+initial_creation_type: input
+source_metadata:
+  title: Parṇaśavarī Series
+  language: bo
+  description: 'Texts related to the goddess Parṇaśavarī (or Parṇaśabarī), who is
+    known in Tibetan as Loma Gyönma (lo ma gyon ma) or ''Leaf-Clad'' and is particularly
+    associated with the healing of contagious disease:'
+  volume:
+    aaf423fd25614a41a824db67b3e343dc:
+      title: Dhāraṇī of Goddess Parṇaśavarī
+      parent: Dhāraṇī
+    2be4d6d770564a35a77a1b0acd9ee5c7:
+      title: A Prayer to Parṇaśavarī
+      parent: Prayers
+    afc6eddf506c46bb8fdedc6a37b4ea28:
+      title: A Prayer to the Goddess Parṇaśavarī
+      parent: Prayers
+created_at: '2022-03-01T05:01:22.403820'
+last_modified_at: '2022-03-01T05:01:22.403823'
